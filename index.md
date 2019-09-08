@@ -15,7 +15,7 @@ Pascoal é entusiasta de metodologias ágeis. Especialista em Engenharia de Proj
 
 Titulo da Palestra é surpresa, garantimos a sua felicidade após assisti-la, pode confiar ;)
 
-Após iremos realizar um Fishbowl com a pergunta Inicial: "o que eu devo estudar, e como ??"
+Após iremos realizar um [Fishbowl](http://agiletrendsbr.com/fishbowls/) com a pergunta Inicial: "O que eu devo estudar, e como ??"
 
 Evento na faixa e por falar nisso vale lembrar que durante o evento estará disponível bebidas por conta de cada participante.
 
