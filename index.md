@@ -1,6 +1,6 @@
-**1 Meetup devBagé**
+# 1° Meetup devBagé
 
-> Save the date 21/09/2019 às 14Horas na (Craft Beer)[https://www.google.com/maps/place/R.+Santos+Souza,+243+-+Centro,+Bagé+-+RS,+96400-320/@-31.334678,-54.102665,17z/data=!3m1!4b1!4m5!3m4!1s0x9506756b91108e71:0x3783fa2e286852a8!8m2!3d-31.334678!4d-54.102665] - Rua Santos Souza, 243 - Centro
+> Save the date 21/09/2019 às 14 Horas na [Craft Beer](https://www.google.com/maps/place/R.+Santos+Souza,+243+-+Centro,+Bagé+-+RS,+96400-320/@-31.334678,-54.102665,17z/data=!3m1!4b1!4m5!3m4!1s0x9506756b91108e71:0x3783fa2e286852a8!8m2!3d-31.334678!4d-54.102665) - Rua Santos Souza, 243 - Centro
 
 **DESCRIÇÃO DO EVENTO**
 
