@@ -1,0 +1,20 @@
+{
+  "name": "devbage.github.io",
+  "version": "1.0.0",
+  "description": "![image](https://user-images.githubusercontent.com/6804621/81020714-d1abc300-8e3f-11ea-8930-3caef6144e82.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbage/devbage.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devbage/devbage.github.io/issues"
+  },
+  "homepage": "https://devbage.github.io/"
+}
