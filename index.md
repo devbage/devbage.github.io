@@ -21,4 +21,4 @@ Evento na faixa e por falar nisso vale lembrar que durante o evento estará disp
 
 Não vais ficar de fora dessa né?!
 
-Inscrições [aqui](https://www.sympla.com.br/1-meetup-devbage__634580)
+Inscrições [aqui](https://www.sympla.com.br/1-meetup-devbage__634580) (encerradas)
