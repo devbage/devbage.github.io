@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "yara"
+  ],
+  "rules": {
+    "jest/valid-expect": 0
+  }
+}
